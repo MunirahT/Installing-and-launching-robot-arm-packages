@@ -1,5 +1,5 @@
 # Installing-and-launching-robot-arm-packages
-This repository shows the steps taken to install robot arm packages.
+This repository shows the steps taken to install  and run robot arm packages.
 
 These packages were tested under ROS Melodic  and Ubuntu 18.04.
 
